@@ -28645,7 +28645,7 @@ const Home = ({ name , title  })=>{
                 style: {
                     position: "absolute",
                     top: "10rem",
-                    left: "20rem",
+                    left: "25rem",
                     width: "17rem"
                 },
                 children: [
