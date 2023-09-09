@@ -28644,8 +28644,8 @@ const Home = ({ name , title  })=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
                     position: "absolute",
-                    top: "5rem",
-                    left: "2rem",
+                    top: "50rem",
+                    left: "50rem",
                     width: "17rem"
                 },
                 children: [
