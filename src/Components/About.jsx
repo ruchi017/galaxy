@@ -57,13 +57,13 @@ const About = () => {
         style={{
           backgroundColor: "white",
           width: "50%",
-          padding: "5rem",
-          margin: "5rem auto",
+          padding: "4rem",
+          margin: "3rem auto",
           textAlign: "center",
         }}
       >
         <h2>About Myself</h2>
-        <p className="small">{description}</p>
+        <p className="large">{description}</p>
         <hr />
         <ul
           style={{

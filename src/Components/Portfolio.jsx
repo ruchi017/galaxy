@@ -37,13 +37,13 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Empowering the Future",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Made a project which explores the transformative potential of long-term thinking in Computer Science and Coding, envisioning a future where technology empowers global optimism through sustainable and ethical innovation.",
+    url: "https://drive.google.com/file/d/1vOo5zVK8-9esiCc6kx0zApriaZzRqoQj/view?usp=drive_link",
   },
   {
-    title: "My Resume Site",
+    title: "Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experiences.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
